@@ -6,6 +6,8 @@ The dashboard comprises various visualizations, including cards, charts, and sli
 
 Overall, this interactive Power BI Sales Dashboard serves as a valuable tool for analyzing the Global_super_store sales data and gaining meaningful insights.
 
+![sales_dashboard png](https://github.com/priyanka-0978/Superstore_Sales_Analysis_Dashboard/assets/136354473/d88d3cc4-a5f1-4e8c-8e3c-1cc3927f3897)
+
 
 
 
